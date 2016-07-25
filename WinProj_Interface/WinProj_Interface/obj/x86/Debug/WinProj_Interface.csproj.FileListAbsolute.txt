@@ -1,0 +1,7 @@
+D:\Ptactice\WinProj_Interface\WinProj_Interface\bin\Debug\WinProj_Interface.exe
+D:\Ptactice\WinProj_Interface\WinProj_Interface\bin\Debug\WinProj_Interface.pdb
+D:\Ptactice\WinProj_Interface\WinProj_Interface\obj\x86\Debug\WinProj_Interface.Properties.Resources.resources
+D:\Ptactice\WinProj_Interface\WinProj_Interface\obj\x86\Debug\WinProj_Interface.csproj.GenerateResource.Cache
+D:\Ptactice\WinProj_Interface\WinProj_Interface\obj\x86\Debug\WinProj_Interface.exe
+D:\Ptactice\WinProj_Interface\WinProj_Interface\obj\x86\Debug\WinProj_Interface.pdb
+D:\Ptactice\WinProj_Interface\WinProj_Interface\obj\x86\Debug\WinProj_Interface.Form1.resources
